@@ -1,2 +1,2 @@
 # EdRepo
-some notes2
+some notes
